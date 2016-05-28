@@ -61,7 +61,7 @@ border-radius: 5px;
 
 @media screen and (max-width: 767px){
 	.wrapper {
-		width: 200%;
+		width: 100%
+		
 	}
-	#longie {width: 96%;}
 }
